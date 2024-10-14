@@ -1,0 +1,16 @@
+{
+  "name": "pufferfinaceingestion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockchainEventListener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "pg": "^8.13.0"
+  }
+}
